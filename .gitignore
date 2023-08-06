@@ -1,2 +1,5 @@
 # VS Code settings for local machine
 .vscode
+
+# Unrelated directories used for testing ideas
+etc
